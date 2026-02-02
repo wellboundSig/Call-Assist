@@ -11,7 +11,7 @@ function openModal() {
     document.body.style.overflow = 'hidden';
 }
 
-// Close Modal
+// Close Modal//...
 function closeModal() {
     modal.classList.remove('active');
     modalOverlay.classList.remove('active');
