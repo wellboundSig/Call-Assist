@@ -4,7 +4,7 @@ const closeModalBtn = document.getElementById('closeModal');
 const modal = document.getElementById('modal');
 const modalOverlay = document.getElementById('modalOverlay');
 
-// Open Modal new
+// Open Modal new hhhh
 function openModal() {
     modal.classList.add('active');
     modalOverlay.classList.add('active');
